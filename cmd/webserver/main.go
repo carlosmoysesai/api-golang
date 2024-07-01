@@ -3,7 +3,7 @@ package main
 import (
 	"log/slog"
 
-	"github.com/wiliamvj/api-users-golang/config/logger"
+	"github.com/carlosmoysesai/api-golang/config/logger"
 )
 
 type user struct {
